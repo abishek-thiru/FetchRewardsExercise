@@ -8,7 +8,7 @@ Display this list of items to the user based on the following requirements:
 3. Filter out any items where "name" is blank or null.
 
 ## Build variants
-Use the Android Studio Build Variants button to choose between production and staging flavors combined with debug and release build types
+Use the Android Studio Build Variants button to choose between debug and release build types
 
 # Author
 [Abishek Thirumoorthi](https://github.com/abishek-thiru)
