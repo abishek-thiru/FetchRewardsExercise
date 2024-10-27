@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fetch Rewards Exercise</string>
+    <string name="list_header">List %d</string>
+    <string name="try_again">Try Again</string>
+    <string name="empty_list">Oops! No list rewards. Try again later.</string>
+    <string name="unknown_error">Something went wrong.\nPlease try after sometime.</string>
+    <string name="no_internet">No internet connection.\nPlease check your connection and try again.</string>
+    <string name="collapse">Collapse</string>
+    <string name="expand">Expand</string>
+    <string name="id_value">ID: %d</string>
+    <string name="name_value">Name: %s</string>
+</resources>
