@@ -42,10 +42,6 @@ fun ExpandableList(
     }
 }
 
-/*
-LazyListScope is used to create nested lazy column. This way it isn't
-creating multiple items, but reuses the already composed items.
-*/
 fun LazyListScope.fetchRewards(items: List<FetchReward>) {
     items(
         items = items,
