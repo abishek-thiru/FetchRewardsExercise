@@ -3,12 +3,23 @@ Native Android app in Kotlin that retrieves the data from https://fetch-hiring.s
 ## Requirements
 Display this list of items to the user based on the following requirements:
 
-1. Display all the items grouped by "listId"
-2. Sort the results first by "listId" then by "name" when displaying.
-3. Filter out any items where "name" is blank or null.
+* Display all the items grouped by "listId"
+* Sort the results first by "listId" then by "name" when displaying.
+* Filter out any items where "name" is blank or null.
 
-## Build variants
-Use the Android Studio Build Variants button to choose between debug and release build types
+## Project Overview
+* Language: Kotlin
+* Framework: Android SDK & Jetpack Compose
+* Build System: Gradle
+* Version Control: Git
+* Dependency Injection: Koin
+* Architecture: MVI (Model-View-Intent)
+
+## App Screenshots
+<p align="center">
+  <img src="Screenshots/List.jpg" width="200" alt="Loading View">
+  <img src="Screenshots/ListOpen.jpg" width="200" alt="Error View">
+</p>
 
 # Author
 [Abishek Thirumoorthi](https://github.com/abishek-thiru)
