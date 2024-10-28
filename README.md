@@ -21,5 +21,10 @@ Display this list of items to the user based on the following requirements:
   <img src="screenshots/ListOpen.jpg" width="200" alt="Error View">
 </p>
 
+## App Working - Expandable list with sticky header
+<p align="center">
+  <img src="screenshots/AppWorking.gif" width="200" alt="Error View">
+</p>
+
 # Author
 [Abishek Thirumoorthi](https://github.com/abishek-thiru)
