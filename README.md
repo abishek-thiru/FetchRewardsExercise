@@ -17,8 +17,8 @@ Display this list of items to the user based on the following requirements:
 
 ## App Screenshots
 <p align="center">
-  <img src="Screenshots/List.jpg" width="200" alt="Loading View">
-  <img src="Screenshots/ListOpen.jpg" width="200" alt="Error View">
+  <img src="screenshots/List.jpg" width="200" alt="Loading View">
+  <img src="screenshots/ListOpen.jpg" width="200" alt="Error View">
 </p>
 
 # Author
